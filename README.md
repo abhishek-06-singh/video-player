@@ -9,7 +9,6 @@
 - Ability to increase the speed of the video
 - Volume and fullscreen buttons (not implemented yet)
 
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
