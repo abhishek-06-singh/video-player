@@ -1,3 +1,14 @@
+# React Video Player
+
+## This is a simple video player built with React that includes the following features:
+
+- Play/pause button
+- Skip forward/backward buttons (10 seconds)
+- Progress bar showing the current running time of the video and the amount of video loaded
+- Current running time of the video displayed in seconds
+- Ability to increase the speed of the video
+- Volume and fullscreen buttons (not implemented yet)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
