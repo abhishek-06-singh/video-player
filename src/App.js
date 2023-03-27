@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "./app.css";
+import "./App.css";
 import "./controls.css";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {
